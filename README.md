@@ -1,8 +1,8 @@
 # 📜 Professional Certifications & Learning Path
 
-Este repositorio recopila mis **certificaciones técnicas, cursos oficiales e insignias**, como parte de un plan de desarrollo profesional continuo enfocado en **Python, desarrollo de software, testing, machine learning e inteligencia artificial**.
+This repository collects my **technical certifications, official courses, and digital badges** as part of a continuous professional development plan focused on **Python, software development, testing, machine learning, and artificial intelligence**.
 
-El objetivo es mantener un registro claro y verificable de mi progreso formativo a lo largo del tiempo.
+The goal is to maintain a clear and verifiable record of my learning progress over time.
 
 ---
 
@@ -11,34 +11,39 @@ El objetivo es mantener un registro claro y verificable de mi progreso formativo
 ### Cisco Networking Academy
 
 #### ✔ Python Essentials 1
-- **Proveedor:** Cisco Networking Academy
-- **Estado:** Completado
-- **Certificado:** Disponible
-- **Insignia:** Disponible
-- **Verificación:** https://www.credly.com/badges/49457c24-479f-41e2-96a4-aa392f9e0941/public_url
 
-**Competencias adquiridas:**
-- Fundamentos de Python
-- Lógica de programación
-- Tipos de datos, control de flujo
-- Buenas prácticas básicas
+* **Provider:** Cisco Networking Academy
+* **Status:** Completed
+* **Certificate:** Available
+* **Badge:** Available
+* **Verification:** https://www.credly.com/badges/49457c24-479f-41e2-96a4-aa392f9e0941/public_url
+
+**Skills acquired:**
+
+* Python fundamentals
+* Programming logic
+* Data types and control flow
+* Basic best practices
 
 ---
 
 #### ▶ Python Essentials 2
-- **Proveedor:** Cisco Networking Academy
-- **Estado:** En curso
-- **Objetivo:** Profundizar en Python y preparar certificación PCAP
+
+* **Provider:** Cisco Networking Academy
+* **Status:** In progress
+* **Goal:** Deepen Python knowledge and prepare for the PCAP certification
 
 ---
 
-## 🎯 Próximos objetivos
-- Python Essentials 2 (Cisco)
-- PCAP – Certified Associate in Python Programming
-- Testing y automatización con Python
-- Introducción a Machine Learning
+## 🎯 Next goals
+
+* Python Essentials 2 (Cisco)
+* PCAP – Certified Associate in Python Programming
+* Testing and automation with Python
+* Introduction to Machine Learning
 
 ---
 
-## 🔄 Actualización continua
-Este repositorio se actualiza conforme completo nuevas certificaciones y proyectos formativos.
+## 🔄 Continuous updates
+
+This repository is updated as new certifications and learning milestones are completed.
