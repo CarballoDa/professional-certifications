@@ -1,10 +1,5 @@
 # 📜 Professional Certifications & Learning Path
 
-![MIT License](https://img.shields.io/github/license/CarballoDa/professional-certifications)
-![Last Commit](https://img.shields.io/github/last-commit/CarballoDa/professional-certifications)
-![Python](https://img.shields.io/badge/Python-Professional-blue)
-
-
 This repository collects my **technical certifications, official courses, and digital badges** as part of a continuous professional development plan focused on **Python, software development, testing, machine learning, and artificial intelligence**.
 
 The goal is to maintain a clear and verifiable record of my learning progress over time.
@@ -53,3 +48,9 @@ The goal is to maintain a clear and verifiable record of my learning progress ov
 
 This repository is updated as new certifications and learning milestones are completed.
 
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/david-carballo-izquierdo-93783a64/
+- Email: carballod@gmail.com
