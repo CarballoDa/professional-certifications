@@ -50,7 +50,3 @@ This repository is updated as new certifications and learning milestones are com
 
 ---
 
-## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/david-carballo-izquierdo-93783a64/
-- Email: carballod@gmail.com
